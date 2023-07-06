@@ -3,6 +3,7 @@ package com.ohgiraffers.section01.method;
 public class Application2 {
     public static void main(String[] args) {
 
+
             /* 다른 흐름의 메서드 호출 흐름에 대해 이해할수 있다.*/
             System.out.println("main()시작됨...");
 

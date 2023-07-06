@@ -2,7 +2,9 @@ package com.ohgiraffers.section01.method;
 
 public class Application1 {
 
+
     public static void main(String[] args) {
+
         /*프로그램이 실행됐을때 가장먼저 호출되는것이 메인메서드(프로그램실행시 최초로실행) */
 
         /*메서드의 호출 흐름에 대해 이해할수 있다.*/

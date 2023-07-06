@@ -3,6 +3,7 @@ package com.ohgiraffers.section01.method;
 public class Application3 {
 
     public static void main(String[] args) {
+
         /* 메소드 전달인자 (argument)-호출시 소괄호에 전달하는값 와 매개변수 ((parameter)-선언시 매개변수 선언부에 적어주는것)에 대해 이해하고 메소드 호출시 사용할수 있다.*/
 
         /*1. 전달 인자로 값 전달 테스트
