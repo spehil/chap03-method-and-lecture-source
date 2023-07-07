@@ -15,7 +15,7 @@ public class Application9 {
         System.out.println("둘중 최소값은? :" + min);
 
         /*2. static 메소드 호출 -클래스명.메소드명() 다른 클래스에서 불러오므로 클래스명을 반드시 작성해줘야한다.*/
-        int max = Calculator.maxNumbersOf(first,second);
+        int max = Calculator.maxNumberOf(first,second);
         System.out.println("둘중 최대값은? :" + max);
 
         /* 주의사항 static메서드는 non-static메서드 호출방식으로 호출하는것이 가능하지만 권장하지 않는다.*/
